@@ -22,9 +22,3 @@ MarteloRepair = function()
       end)
   end)
 end
-
-onKeyDown(function(keys)
-if keys == 'F1' then
-    MarteloRepair()
-end
-end)
